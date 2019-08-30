@@ -1,7 +1,7 @@
 # TodoList
 
 ## Demo
-https://yangjiesu.github.io/TodoList/
+https://syj0905.github.io/TodoList/
 
 ## Intro
 * 使用 Vue.js 撰寫
